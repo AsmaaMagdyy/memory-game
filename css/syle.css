@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #333333;
+}
+
+.card{
+    
+    height: 150px;
+    border: 2px solid #eee;
+    background-color: black;
+    cursor: pointer;
+}
